@@ -1,0 +1,26 @@
+h1 {
+    color: blue;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+    font-weight: inherit;
+}
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 1px solid black;
+    /*adding a bit of padding inside of each of the cells*/
+    padding: 5px;  
+}
+
+div {
+    background-color: yellowgreen;
+    width: 300px;
+    height: 300px;
+    padding: 20px;
+    margin: 20px;
+}
