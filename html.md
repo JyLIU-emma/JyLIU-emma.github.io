@@ -128,11 +128,11 @@ A more commplicated example:
 HTML字符实体 （Character Entities）: 使用*实体编号*或*实体名称*替换均可
 | 字符 | 实体编号 | 实体名称 | 英文名 |
 | ---- | -------- | -------- | ------ |
-| < | &#60; | &lt; | less-than |
-| > | &#62; | &gt; | greater-than |
-| " | &#34; | &quot; | quotation |
-| ' | &#39; | &apos; | apostrophe |
-| & | &#38; | &amp; | ampersand |
+| < | `&#60;` | `&lt;` | less-than |
+| > | `&#62;` | `&gt;` | greater-than |
+| " | `&#34;` | `&quot;` | quotation |
+| ' | `&#39;` | `&apos;` | apostrophe |
+| & | `&#38;` | `&amp;` | ampersand |
 
 ## CSS (used for layout of the page)
 
