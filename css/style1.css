@@ -3,3 +3,16 @@ body {
 	background-image: url("../images/bgimage.jpg");
 	background-repeat: no-repeat;
 }
+
+table {
+	border: black solid 1px;
+	border-collapse: collapse;
+	
+}
+th {
+	background-color: yellow;
+}
+th, td {
+	border: black solid 1px;
+	padding: 20px;
+}
